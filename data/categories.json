@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Smartphones",
+      "description": "Modern mobile devices with advanced computing capabilities"
+    },
+    {
+      "id": 2,
+      "name": "Laptops",
+      "description": "Portable computers designed for mobile use"
+    },
+    {
+      "id": 3,
+      "name": "Smart Home",
+      "description": "Devices that automate and enhance home living experiences"
+    },
+    {
+      "id": 4,
+      "name": "Wearables",
+      "description": "Technology devices designed to be worn as accessories"
+    },
+    {
+      "id": 5,
+      "name": "Audio Equipment",
+      "description": "Devices for high-quality sound reproduction and recording"
+    }
+  ]
+}
