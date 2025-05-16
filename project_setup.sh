@@ -34,3 +34,5 @@ dotnet sln $PROJECT_NAME.sln add $PROJECT_NAME.Tests/$PROJECT_NAME.Tests.csproj
 echo "ADDING THE NEEDED DEPENDENCIES FOR THE MINIMAL API TEST PROJECT"
 dotnet add $PROJECT_NAME.Tests/$PROJECT_NAME.Tests.csproj package Microsoft.AspNetCore.Mvc.Testing
 dotnet add $PROJECT_NAME.Tests/$PROJECT_NAME.Tests.csproj package Minivalidation
+
+# New comment
