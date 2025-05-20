@@ -104,3 +104,7 @@ Potential future enhancements could include:
 ## Related Documentation
 - [.NET 9 Minimal API Documentation](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis)
 - [System.Text.Json Documentation](https://learn.microsoft.com/en-us/dotnet/standard/serialization/system-text-json/overview)
+- 
+
+
+- This is an example line for the workshop
